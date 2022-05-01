@@ -11,7 +11,7 @@ exports[`Modal component matches snapshot DOM node structure 1`] = `
       <h3
         class="modalTitle"
       >
-        Park bench
+        Park bench 
       </h3>
       <img
         alt="current category"
