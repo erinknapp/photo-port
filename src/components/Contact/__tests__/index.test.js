@@ -1,3 +1,4 @@
+/* eslint-disable jest/no-identical-title */
 // __tests__/Contact.test.js
 import React from 'react'
 import { render, cleanup } from '@testing-library/react'

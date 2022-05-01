@@ -1,3 +1,4 @@
+/* eslint-disable jest/no-identical-title */
 // __tests__/PhotoList.test.js
 import React from 'react'
 import { render, cleanup } from '@testing-library/react'
@@ -6,7 +7,7 @@ import PhotoList from './PhotoList'
 
 afterEach(cleanup)
 
-describe('PhotoList is rendering', () => {
+describe('PhotoList component', () => {
   it('renders', () => {
     render(<PhotoList />);
   });
